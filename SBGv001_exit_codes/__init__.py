@@ -1,4 +1,4 @@
-from .SBG_TIR_exit_codes import *
+from .SBGv001_exit_codes import *
 
 from os.path import join, abspath, dirname
 

@@ -1,4 +1,4 @@
-PACKAGE_NAME = SBG-TIR-exit-codes
+PACKAGE_NAME = SBGv001-exit-codes
 ENVIRONMENT_NAME = $(PACKAGE_NAME)
 DOCKER_IMAGE_NAME = $(shell echo $(PACKAGE_NAME) | tr '[:upper:]' '[:lower:]')
 
