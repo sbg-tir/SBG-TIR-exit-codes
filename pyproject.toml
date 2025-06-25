@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "SBG-TIR-exit-codes"
-version = "1.0.0"
+version = "1.0.1"
 description = "SBG Collection 1 exit codes"
 readme = "README.md"
 authors = [
