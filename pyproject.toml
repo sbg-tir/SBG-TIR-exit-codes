@@ -3,8 +3,8 @@ requires = ["setuptools>=60", "setuptools-scm>=8.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "SBG-TIR-exit-codes"
-version = "1.0.1"
+name = "SBGv001-exit-codes"
+version = "1.1.1"
 description = "SBG Collection 1 exit codes"
 readme = "README.md"
 authors = [
